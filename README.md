@@ -1,5 +1,3 @@
 # simple-shop-django
+put SECRET_KEY = 'your key' on .env in main directory
 
-
-
-change SECRET_KEY before migrate
